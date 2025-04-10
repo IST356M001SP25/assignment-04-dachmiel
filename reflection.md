@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Daniel Chmielewski
+Sudent Email:  dachmiel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use Streamlit to create an interactive web application to visualize data. Specifically, I learned how to use components like st.file_uploader to allow users to upload files, and st.multiselect to let users dynamically select columns to display. This helped me understand how to process data and build a user friendly interface to display information in a digestible way.
